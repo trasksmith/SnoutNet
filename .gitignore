@@ -12,10 +12,5 @@ venv_11/
 .idea/ 
 
 # -- Loss Plots / Weights ---
-snoutnet_loss*
-alexnet_loss*
-vgg16_loss*
-
-snoutnet_weights*
-alexnet_weights*
-vgg16_weights*
+*.png
+*.pth
